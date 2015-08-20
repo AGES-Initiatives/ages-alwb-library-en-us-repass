@@ -1,0 +1,60 @@
+A_Resource_Whose_Name = me.m05.d25_en_US_repass
+
+meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "" // full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = rubrical_en_US_repass.HolidayWineOil
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_US_repass.Mode8
+meVE.Stichera01.melody = misc_en_US_repass.NotMetered //he.a.m8_en_US_repass.OTouParadoxou.name
+meVE.Stichera01.text = "O blessed Forerunner John, brighter than the sun's rays, your Head dawned forth from the earth and enlightened the faithful. Having it as a divine treasure, we obtain rich grace for ourselves, being sanctified in soul and body and mind; and as we celebrate the festival, we call you blessed."
+
+meVE.Stichera02.mode = misc_en_US_repass.Mode8
+meVE.Stichera02.melody = misc_en_US_repass.NotMetered //he.a.m8_en_US_repass.OTouParadoxou.name
+meVE.Stichera02.text = "O blessed Forerunner, your sacred Head that pours forth grace everlasting, is revealed to an unsuspecting Priest of godly mind, who clearly sought for it in faith and grace. And he, with the godly-minded people and King, is sanctified and fervently strengthened in the Orthodox faith."
+
+meVE.Stichera03.mode = misc_en_US_repass.Mode8
+meVE.Stichera03.melody = misc_en_US_repass.NotMetered //he.a.m8_en_US_repass.OTouParadoxou.name
+meVE.Stichera03.text = "O glorious John, we celebrate the third appearance of your revered Head, which the Trinity crowned after it was cut off on account of your divine zeal. And glorying in its discovery are the ranks of Angels, the assembly of Martyrs, the divine Apostles, and all the Prophets. With them, make remembrance of us at all times, O Forerunner of the Lord."
+
+meVE.SticGlory.mode = misc_en_US_repass.Mode6
+meVE.SticGlory.melody = misc_en_US_repass.Idiomelon
+meVE.SticGlory.text = "A treasure of godly gifts is your Head, O Forerunner. Guarded safely by God, it came to light from the hollows of the earth. With faith we gain possession of it, O glorious Baptist of Christ, and as we venerate it we are enriched through you by the wonders of miracles and the forgiveness of transgressions."
+
+meVE.SticTheotokion.mode = misc_en_US_repass.Mode6
+meVE.SticTheotokion.melody = ""
+meVE.SticTheotokion.text = //oc.m6.d1_en_US_repass.ocVE.SticTheotokion.text
+
+meVE.Aposticha1.mode = misc_en_US_repass.Mode2
+meVE.Aposticha1.melody = misc_en_US_repass.NotMetered //he.a.m2_en_US_repass.OteEkTouXylou.name
+meVE.Aposticha1.text = "Come, you faithful, let us reverence today the Baptist's precious Head, which was cut off by the sword. Let us honor it with loving songs on the occasion of its discovery, as it showers us with gifts of healings; this is the head that foolish Herod severed long ago when he was entangled in Herodias's madness."
+
+meVE.Aposticha2.mode = misc_en_US_repass.Mode2
+meVE.Aposticha2.melody = misc_en_US_repass.NotMetered //he.a.m2_en_US_repass.OteEkTouXylou.name
+meVE.Aposticha2.text = "Like gold from the mines, so from the earth the Forerunner's Head shines like a torch, giving light through the vessel and clearly speaking forth the shame of Herod's adultery and murder and with its radiance illumining our thoughts. Kissing it in faith, let us honor it in hymns today, as it intercedes with God in our behalf."
+
+meVE.Aposticha3.mode = misc_en_US_repass.Mode2
+meVE.Aposticha3.melody = misc_en_US_repass.NotMetered //he.a.m2_en_US_repass.OteEkTouXylou.name
+meVE.Aposticha3.text = "Like a divine treasure, hidden long ago in a jar in the earth, the head of the Baptist is revealed today to the ends of the world. It pours forth fountains of healings like riches, curing sicknesses and enlightening souls. Therefore, delighting in the grace of every joy, let us all sing hymns of praise to Christ's Forerunner."
+
+meVE.AposGlory.mode = misc_en_US_repass.Mode2
+meVE.AposGlory.melody = misc_en_US_repass.Idiomelon
+meVE.AposGlory.text = //me.m02.d24_en_US_repass.meVE.AposGlory.text
+
+meVE.AposTheotokion.mode = misc_en_US_repass.Mode2
+meVE.AposTheotokion.melody = ""
+meVE.AposTheotokion.text = //oc.m2.d2_en_US_repass.ocVE.AposTheotokion.text
+
+meVE.Apolytikion1.mode = misc_en_US_repass.Mode4
+meVE.Apolytikion1.melody = misc_en_US_repass.NotMetered //he.a.m4_en_US_repass.TachyProkatalave.name
+meVE.Apolytikion1.text = //me.m02.d24_en_US_repass.meMA.Kathisma11.text
+
