@@ -160,6 +160,8 @@ KanonTisAgias = ""
 
 KanonTisEortis = ""
 
+KanonTisOsias = ""
+
 KanonTisTheotokou = "Canon for the Theotokos"
 
 KanonTonAgion = ""
@@ -173,6 +175,8 @@ KanonTonMartyron = "Canon for the Martyrs"
 KanonTouAgiou = ""
 
 KanonTouAgiouNikolaou = "Canon for St. Nicholas"
+
+KanonTouOsiou = ""
 
 KanonTouProdromou = "Canon for the Forerunner"
 
