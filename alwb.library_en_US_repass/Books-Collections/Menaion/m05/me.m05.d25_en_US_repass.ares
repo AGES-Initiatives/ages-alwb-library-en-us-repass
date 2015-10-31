@@ -36,15 +36,15 @@ meVE.SticTheotokion.text = //oc.m6.d1_en_US_repass.ocVE.SticTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_repass.Mode2
 meVE.Aposticha1.melody = misc_en_US_repass.NotMetered //he.a.m2_en_US_repass.OteEkTouXylou.name
-meVE.Aposticha1.text = "Come, you faithful, let us reverence today the Baptist's precious Head, which was cut off by the sword. Let us honor it with loving songs on the occasion of its discovery, as it showers us with gifts of healings; this is the head that foolish Herod severed long ago when he was entangled in Herodias's madness."
+meVE.Aposticha1.text = me.m02.d25_en_US_repass.meVE.Stichera01.text
 
 meVE.Aposticha2.mode = misc_en_US_repass.Mode2
 meVE.Aposticha2.melody = misc_en_US_repass.NotMetered //he.a.m2_en_US_repass.OteEkTouXylou.name
-meVE.Aposticha2.text = "Like gold from the mines, so from the earth the Forerunner's Head shines like a torch, giving light through the vessel and clearly speaking forth the shame of Herod's adultery and murder and with its radiance illumining our thoughts. Kissing it in faith, let us honor it in hymns today, as it intercedes with God in our behalf."
+meVE.Aposticha2.text = me.m02.d25_en_US_repass.meVE.Stichera02.text
 
 meVE.Aposticha3.mode = misc_en_US_repass.Mode2
 meVE.Aposticha3.melody = misc_en_US_repass.NotMetered //he.a.m2_en_US_repass.OteEkTouXylou.name
-meVE.Aposticha3.text = "Like a divine treasure, hidden long ago in a jar in the earth, the head of the Baptist is revealed today to the ends of the world. It pours forth fountains of healings like riches, curing sicknesses and enlightening souls. Therefore, delighting in the grace of every joy, let us all sing hymns of praise to Christ's Forerunner."
+meVE.Aposticha3.text = me.m02.d25_en_US_repass.meVE.Stichera03.text
 
 meVE.AposGlory.mode = misc_en_US_repass.Mode2
 meVE.AposGlory.melody = misc_en_US_repass.Idiomelon
