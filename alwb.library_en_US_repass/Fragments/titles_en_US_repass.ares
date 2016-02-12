@@ -189,7 +189,11 @@ KanonTouAgiou = ""
 
 KanonTouAgiouNikolaou = "Canon for St. Nicholas"
 
+KanonTouEvangelistou = ""
+
 KanonTouOsiou = ""
+
+KanonTouPascha = ""
 
 KanonTouProdromou = "Canon for the Forerunner"
 
@@ -236,6 +240,8 @@ KontakionProeortion = ""
 KontakionTisEortis = ""
 
 KontakionTonPateron = "Kontakion for the Fathers."
+
+KontakionTouPascha = ""
 
 KontakionTouTriodiou = "Kontakion from the Triodion."
 
