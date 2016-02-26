@@ -93,6 +93,8 @@ meMA.Kathisma21.text = "Keeping the commandments of law in a most God-pleasing m
 
 meMA.C1Acrostic.text = ""
 
+meMA.C1.verse = ""
+
 meMA.Ode1C11.ode = misc_en_US_repass.Ode1
 meMA.Ode1C11.mode = misc_en_US_repass.Mode4
 meMA.Ode1C11.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.AnoixoToStomaMou.name
