@@ -307,7 +307,9 @@ OKanonTisEortis = "The Canon for the Feast."
 
 OKanonTouMinaiou = ""
 
-Omoia = "Same Melody."
+OKanonTouMinaiou2 = "" //makes English say General Menaion
+
+Omoia = ""
 
 Omoion = "Same Melody."
 
@@ -387,6 +389,8 @@ StichiraTisEortis = ""
 StichiraTisTheotokou = "Stichera for the Theotokos."
 
 StichiraTouAgiouNikolaou = ""
+
+StichiraTouMinaiou = ""
 
 StichiraTouPascha = "Stichera of Pascha."
 
