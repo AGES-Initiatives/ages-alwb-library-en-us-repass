@@ -65,6 +65,7 @@ meMA.Ode1C1H.mode = misc_en_US_repass.Mode4
 meMA.Ode1C1H.melody = misc_en_US_repass.HeirmosNotMetered
 meMA.Ode1C1H.text = "O Lord born of a Virgin, drown in the deep of dispassion, I pray, the powers governing the threefold nature of my soul, that through mortification of the body, I may sing to you, as with a tympani, a song of victory." //he.h.m4_en_US_repass.TristatasKrataious.text
 
+meMA.C1.title = ""
 meMA.C1.verse = ""
 
 meMA.Ode1C11.ode = misc_en_US_repass.Ode1
@@ -87,6 +88,7 @@ meMA.Ode1C14.mode = misc_en_US_repass.Mode4
 meMA.Ode1C14.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.TristatasKrataious.name
 meMA.Ode1C14.text = "O spotless ewe-lamb who in a manner beyond nature bore the Lamb of God, you have granted us your precious Robe which truly at all times cleanses every spot and wrinkle of those who venerate it, O all-unblemished one."
 
+meMA.C2.title = ""
 meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_en_US_repass.Ode1
