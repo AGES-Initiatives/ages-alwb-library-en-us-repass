@@ -189,6 +189,10 @@ KanonTisTheotokou = "Canon for the Theotokos"
 
 KanonTonAgion = ""
 
+KanonATonAgion = ""
+
+KanonBTonAgion = ""
+
 KanonTonAgionApostolon = "Canon for the Holy Apostles"
 
 KanonATonAsomaton = ""
@@ -200,6 +204,10 @@ KanonTonAsomaton = "Canon for the Bodiless Hosts"
 KanonTonMartyron = "Canon for the Martyrs"
 
 KanonTouAgiou = ""
+
+KanonATouAgiou = ""
+
+KanonBTouAgiou = ""
 
 KanonTouAgiouNikolaou = "Canon for St. Nicholas"
 
@@ -220,6 +228,10 @@ KanonATouTriodiou = ""
 KanonBTouTriodiou = ""
 
 KanonTouProfitou = ""
+
+KanonATouProfitou = ""
+
+KanonBTouProfitou = ""
 
 KanonTouTriodiou = ""
 
