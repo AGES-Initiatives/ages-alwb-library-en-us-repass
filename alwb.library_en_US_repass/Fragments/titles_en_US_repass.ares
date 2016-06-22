@@ -161,6 +161,8 @@ KanonEisPantasTousAgious = ""
 
 KanonEisProfitasKaiMartyras = "Canon for Prophets and Martyrs"
 
+KanonIamvikos = ""
+
 KanonKatanyktikos = "Canon of Compunction"
 
 KanonOAnastasimos = "Canon for the Resurrection"
@@ -184,6 +186,10 @@ KanonATisOsias = ""
 KanonBTisOsias = ""
 
 KanonTisOsias = ""
+
+KanonATisTheotokou = ""
+
+KanonBTisTheotokou = ""
 
 KanonTisTheotokou = "Canon for the Theotokos"
 
@@ -212,6 +218,10 @@ KanonBTouAgiou = ""
 KanonTouAgiouNikolaou = "Canon for St. Nicholas"
 
 KanonTouApostolou = ""
+
+KanonATouApostolou = ""
+
+KanonBTouApostolou = ""
 
 KanonTouArchangelou = ""
 
