@@ -473,6 +473,17 @@ sup10 = "the Hieromartyrs Haralambos and Eleftherios;"
 
 sup11 = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
 
+sup11_eufimia = ""
+sup11_thekla = ""
+sup11_barbara = ""
+sup11_anastasia = ""
+sup11_catherine = ""
+sup11_kyriaki = ""
+sup11_photeini = ""
+sup11_marina = ""
+sup11_paraskevi = ""
+sup11_irene = ""
+
 sup12 = "of our holy God-bearing Fathers;"
 
 sup13 = "(the patron saint of the church);"
