@@ -459,6 +459,8 @@ StichiraTisEortis = ""
 
 StichiraTisTheotokou = "Stichera for the Theotokos."
 
+StichiraTonEnkainion = ""
+
 StichiraTouAgiouNikolaou = ""
 
 StichiraTouMinaiou = ""
@@ -615,6 +617,8 @@ TroparionTisProfiteias = "Troparion before the Prophecy."
 
 YmnoiMetaTinMikranEisodon = "Hymns After the Small Entrance."
 
+YmnosEisTinTheotokon = ""
+
 Ypakoi = "Hypakoe."
 
 daySunday = "Sunday"
@@ -715,6 +719,7 @@ IntermediateVersesOde8 = ""
 PhotagogicHymns = "Photogogic Hymns"
 ofBrightWeek = ""
 
+sourceEuchologion = ""
 sourceHorologion = ""
 sourceMenaion = ""
 sourceMeSupplement = ""
