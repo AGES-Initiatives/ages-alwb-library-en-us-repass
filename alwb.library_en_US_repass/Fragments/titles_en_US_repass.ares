@@ -453,6 +453,8 @@ StichironIdiomelon = "Sticheron Idiomelon."
 
 StichiraIdiomelaTisEortis = "Stichera Idiomela for the Feast."
 
+StichiraMartyrika  = ""
+
 StichiraProsomoia = "Stichera Prosomia."
 
 StichiraProsomoiaTouAgiou = "Stichera Prosomia for the Saint."
@@ -464,6 +466,8 @@ StichiraTisEortis = ""
 StichiraTisTheotokou = "Stichera for the Theotokos."
 
 StichiraTonEnkainion = ""
+
+StichiraTonKekoimimenon  = ""
 
 StichiraTouAgiouNikolaou = ""
 
@@ -544,6 +548,8 @@ TonEnkainion = "For the Consecration."
 TonIerarchon = "For the Hierarchs."
 
 TonIsapostolon = "For the Equals-to-the-Apostles."
+
+TonKekoimimenon  = ""
 
 TonKoryfaion = "For Sts. Peter and Paul."
 
