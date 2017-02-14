@@ -433,7 +433,7 @@ meMA.Ode9H.mode = misc_en_US_repass.Mode4
 meMA.Ode9H.melody = misc_en_US_repass.HeirmosNotMetered
 meMA.Ode9H.text = "A stone cut without hands was cut from you, an unhewn mountain, O Virgin: even Christ the cornerstone, who united the separate natures. Therefore, in joy, O Theotokos, we magnify you." //he.h.m4_en_US_repass.LithosAcheirotmitos.text
 
-meMA.Exaposteilarion1.mode = misc_en_US_repass.Mode4
+meMA.Exaposteilarion1.mode = misc_en_US_repass.Mode3
 meMA.Exaposteilarion1.melody = misc_en_US_repass.NotMetered //he.a.m3_en_US_repass.FosAnalloioton.name
 meMA.Exaposteilarion1.text = "You alone have renewed both nature and time, O Mother of God; for chaste was your giving of birth, and incorruptible is the Robe with which you protect your city and by which you strengthen the scepters of true piety."
 
