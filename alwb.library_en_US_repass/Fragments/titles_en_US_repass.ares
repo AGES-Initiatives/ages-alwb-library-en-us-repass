@@ -119,6 +119,8 @@ Eteron = "Another."
 
 EteronEktosTypikou = "Another Extra Hymn."
 
+EteronKontakion = ""
+
 Eteros = "Another."
 
 EterosKanon = ""
@@ -470,6 +472,8 @@ StichiraMartyrika  = ""
 StichiraProsomoia = "Stichera Prosomia."
 
 StichiraProsomoiaTouAgiou = "Stichera Prosomia for the Saint."
+
+StichiraProsomoiaTouOsiou = ""
 
 StichiraStavrosima = "Stichera for the Cross."
 
