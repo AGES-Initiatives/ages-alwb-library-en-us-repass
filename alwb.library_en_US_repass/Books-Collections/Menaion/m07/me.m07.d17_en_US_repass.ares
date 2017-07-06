@@ -15,15 +15,15 @@ meHO.note1 = rubrical_en_US_repass.WineOil
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_repass.Mode8
-meVE.Stichera01.melody = misc_en_US_repass.NotMetered //he.a.m8_en_US_repass.OTouParadoxou.name
+meVE.Stichera01.melody = he.a.m8_en_US_repass.OTouParadoxou.notmetered
 meVE.Stichera01.text = "O marvelous wonder! A gentle and altogether blameless maiden humbled to the earth the exalted pride of him who pledged to blot out earth and sea, and defeated his wiles. O the power and grace of the Cross! It clearly sustains us in all our infirmities."
 
 meVE.Stichera02.mode = misc_en_US_repass.Mode8
-meVE.Stichera02.melody = misc_en_US_repass.NotMetered //he.a.m8_en_US_repass.OTouParadoxou.name
+meVE.Stichera02.melody = he.a.m8_en_US_repass.OTouParadoxou.notmetered
 meVE.Stichera02.text = "All-glorious Martyr Marina, having worthily made your dwelling in the heavenly mansions with the ranks of virgins and the legions of martyrs, by your intercessions save those who are accomplishing your commemoration in faith, and faithfully drawing near to your protection, and ask from God remission of offenses and redemption and great mercy."
 
 meVE.Stichera03.mode = misc_en_US_repass.Mode8
-meVE.Stichera03.melody = misc_en_US_repass.NotMetered //he.a.m8_en_US_repass.OTouParadoxou.name
+meVE.Stichera03.melody = he.a.m8_en_US_repass.OTouParadoxou.notmetered
 meVE.Stichera03.text = "All-laudable Martyr Marina, neither the fire of torments, nor the enjoyment of luxuries, nor worldly graces, nor the joys of youth, drew you away from love for Christ, for your desire was to attain to the unimaginable beauty of your holy Bridegroom; and of this you were found worthy, most divinely-blessed Martyr."
 
 meVE.SticGlory.mode = misc_en_US_repass.Mode2
@@ -59,15 +59,15 @@ meVE.LityBoth.melody = ""
 meVE.LityBoth.text = "We call you blessed, O Virgin Theotokos, and we faithful duly glorify you as an unshakable city, an unbreachable bulwark, and the unbroken protection and refuge of our souls." //oc.m5.d3_en_US_repass.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_US_repass.Mode2
-meVE.Aposticha1.melody = misc_en_US_repass.NotMetered //he.a.m2_en_US_repass.OteEkTouXylou.name
+meVE.Aposticha1.melody = he.a.m2_en_US_repass.OteEkTouXylou.notmetered
 meVE.Aposticha1.text = "Come, O lovers of Martyrs, let us faithfully honor Marina, the Bride of Christ, who contended resolutely for the Master of all. For she adorned her body with a tunic of virginity like a vesture of gold, and added to it the blood of holy martyrdom. Αnd decorated with twofold crowns, she now stands in the presence of the Lord who wears a crown."
 
 meVE.Aposticha2.mode = misc_en_US_repass.Mode2
-meVE.Aposticha2.melody = misc_en_US_repass.NotMetered //he.a.m2_en_US_repass.OteEkTouXylou.name
+meVE.Aposticha2.melody = he.a.m2_en_US_repass.OteEkTouXylou.notmetered
 meVE.Aposticha2.text = "Great was your achievement and truly great and most excellent your prize, O Marina. For having a nature easily frightened and easily humbled, you really destroyed the invisible dragon, the great mountain, the crafty mind, trampling him underfoot like a mere sparrow. Now you dance with the Angels, O wondrous great martyr."
 
 meVE.Aposticha3.mode = misc_en_US_repass.Mode2
-meVE.Aposticha3.melody = misc_en_US_repass.NotMetered //he.a.m2_en_US_repass.OteEkTouXylou.name
+meVE.Aposticha3.melody = he.a.m2_en_US_repass.OteEkTouXylou.notmetered
 meVE.Aposticha3.text = "You were truly revealed as the chosen bride of the Word who appeared on earth, being illustrious for the beauty of your godly deeds, and by grace withering the tree of godlessness, O Marina. Therefore, we now revere your all-sacred memory with love, and embrace your reliquary, receiving from this healing gifts."
 
 meVE.AposGlory.mode = misc_en_US_repass.Mode6
@@ -80,6 +80,6 @@ meVE.AposTheotokion.text = "O Theotokos, you are the true vine that has put fort
 
 meVE.Apolytikion1.poet = poets_en_US_repass.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_repass.Mode5
-meVE.Apolytikion1.melody = misc_en_US_repass.NotMetered //he.a.m5_en_US_repass.TonSynanarchonLogon.name
+meVE.Apolytikion1.melody = he.a.m5_en_US_repass.TonSynanarchonLogon.notmetered
 meVE.Apolytikion1.text = ""
 

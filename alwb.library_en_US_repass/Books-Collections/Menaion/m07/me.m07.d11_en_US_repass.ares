@@ -15,27 +15,27 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_repass.Mode8
-meVE.Stichera01.melody = misc_en_US_repass.NotMetered //he.a.m8_en_US_repass.OTouParadoxou.name
+meVE.Stichera01.melody = he.a.m8_en_US_repass.OTouParadoxou.notmetered
 meVE.Stichera01.text = "O marvelous wonder! The Lord's ewe-Lamb, through the contest of suffering, imitates his voluntary death, and while lying in the tomb, she makes an effusion of blood spring up by the power of the Holy Spirit. Drawing of this for the purification of our souls, we offer praise at all times to the God of all."
 
 meVE.Stichera02.mode = misc_en_US_repass.Mode8
-meVE.Stichera02.melody = misc_en_US_repass.NotMetered //he.a.m8_en_US_repass.OTouParadoxou.name
+meVE.Stichera02.melody = he.a.m8_en_US_repass.OTouParadoxou.notmetered
 meVE.Stichera02.text = "O Martyr truly all-laudable, like Daniel before you, you held off the attacks of wild beasts, and by grace readily faced fire with boldness; and having accepted every other torment, you were crowned with an unfading wreath of victory and joyously ascended to him for whom you longed; therefore, we honor you and call you blessed."
 
 meVE.Stichera03.mode = misc_en_US_repass.Mode8
-meVE.Stichera03.melody = misc_en_US_repass.NotMetered //he.a.m8_en_US_repass.OTouParadoxou.name
+meVE.Stichera03.melody = he.a.m8_en_US_repass.OTouParadoxou.notmetered
 meVE.Stichera03.text = "The convocation of divine Fathers placed the definition of faith near your head, and you took it in your arms, preserving the divine faith unshaken, shunning all heresy, and putting to shame the defenders of falsehood, O glorious martyr hymned by all; therefore, we honor you and call you blessed."
 
 meVE.Stichera04.mode = misc_en_US_repass.Mode4
-meVE.Stichera04.melody = misc_en_US_repass.NotMetered //he.a.m4_en_US_repass.OsGennaionEnMartysi.name
+meVE.Stichera04.melody = he.a.m4_en_US_repass.OsGennaionEnMartysi.notmetered
 meVE.Stichera04.text = "Observing the casket of your relics, all-laudable Euphemia, we draw for ourselves inexhaustible health and strength, and are illumined in our souls and enlightened in mind, being purified noetically by the Spirit's rays through your holy mediations. Therefore with love we honor your holy festival."
 
 meVE.Stichera05.mode = misc_en_US_repass.Mode4
-meVE.Stichera05.melody = misc_en_US_repass.NotMetered //he.a.m4_en_US_repass.OsGennaionEnMartysi.name
+meVE.Stichera05.melody = he.a.m4_en_US_repass.OsGennaionEnMartysi.notmetered
 meVE.Stichera05.text = "You experienced fire and were handed over to wild beasts; you were thrown in a cistern, and were placed on the wheels. The Maker of all rescued you from these things, O fair virgin, shaming that one who cunningly prepared them for you, and glorifying you, O Martyr Euphemia, who preached the one Christ in two natures."
 
 meVE.Stichera06.mode = misc_en_US_repass.Mode4
-meVE.Stichera06.melody = misc_en_US_repass.NotMetered //he.a.m4_en_US_repass.OsGennaionEnMartysi.name
+meVE.Stichera06.melody = he.a.m4_en_US_repass.OsGennaionEnMartysi.notmetered
 meVE.Stichera06.text = "The holy Euphemia utterly disgraced Eutyches and Dioscorus and those of like mind with them, who were incurably afflicted, having lost their minds and their wits; and she proclaimed Christ as two-fold in wills and energies alike, but one in hypostasis, as the Fathers explained."
 
 meVE.SticGlory.mode = misc_en_US_repass.Mode6
@@ -71,15 +71,15 @@ meVE.LityBoth.melody = misc_en_US_repass.NotMetered //""
 meVE.LityBoth.text = "We, the faithful, call you blessed, O Virgin Theotokos, and to you we render due glory.  For you are the unshakable city, the unbreachable wall, the invincible protection and refuge of our souls."
 
 meVE.Aposticha1.mode = misc_en_US_repass.Mode2
-meVE.Aposticha1.melody = misc_en_US_repass.NotMetered //he.a.m2_en_US_repass.OteEkTouXylou.name
+meVE.Aposticha1.melody = he.a.m2_en_US_repass.OteEkTouXylou.notmetered
 meVE.Aposticha1.text = "Come, O brethren, let us be cleansed in lips, and in soul, and in heart, and let us draw for ourselves the inexhaustible wealth freely pouring from the all-laudable saint's reliquary, which is now set before us in our midst and is plainly seen. As we lovingly bless her and faithfully honor her, let us all crown her with holy praises."
 
 meVE.Aposticha2.mode = misc_en_US_repass.Mode2
-meVE.Aposticha2.melody = misc_en_US_repass.NotMetered //he.a.m2_en_US_repass.OteEkTouXylou.name
+meVE.Aposticha2.melody = he.a.m2_en_US_repass.OteEkTouXylou.notmetered
 meVE.Aposticha2.text = "You stood before the tribunal of impious tyrants brave and firm like an anvil, impervious to pains, O martyr, fair virgin, proclaiming that Christ is the all-perfect God who, having received flesh, is in two natures and two wills. Therefore, you cast at your feet the decree of the heretics, holding on to ours with zeal."
 
 meVE.Aposticha3.mode = misc_en_US_repass.Mode2
-meVE.Aposticha3.melody = misc_en_US_repass.NotMetered //he.a.m2_en_US_repass.OteEkTouXylou.name
+meVE.Aposticha3.melody = he.a.m2_en_US_repass.OteEkTouXylou.notmetered
 meVE.Aposticha3.text = "We whom the pastor of the believers has now assembled, having come together in one, all praise in faith and bless in holy songs and melodies your august celebration. Keep watch, guard, shelter us, and deliver us from every kind of harm by your intercessions, all-praiseworthy Martyr of Christ Euphemia."
 
 meVE.AposGlory.mode = misc_en_US_repass.Mode6
@@ -91,6 +91,6 @@ meVE.AposTheotokion.melody = misc_en_US_repass.NotMetered //he.o_en_US_repass.Th
 meVE.AposTheotokion.text = ""
 
 meVE.Apolytikion1.mode = misc_en_US_repass.Mode3
-meVE.Apolytikion1.melody = misc_en_US_repass.NotMetered //he.a.m3_en_US_repass.TheiasPisteos.name
+meVE.Apolytikion1.melody = he.a.m3_en_US_repass.TheiasPisteos.notmetered
 meVE.Apolytikion1.text = "You gave greatly joy to the rightly-believing, and disgraced the falsely-believing, O Euphemia, Christ's fair virgin; for you ratified what the Fathers of the fourth Council had correctly dogmatized. O glorious martyr, entreat Christ God that we may be granted great mercy."
 

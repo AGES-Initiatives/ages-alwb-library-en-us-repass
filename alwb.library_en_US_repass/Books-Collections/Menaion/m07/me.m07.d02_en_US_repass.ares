@@ -15,15 +15,15 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_repass.Mode4
-meVE.Stichera01.melody = misc_en_US_repass.NotMetered //he.a.m4_en_US_repass.EdokasSimeiosin.name
+meVE.Stichera01.melody = he.a.m4_en_US_repass.EdokasSimeiosin.notmetered
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_repass.Mode4
-meVE.Stichera02.melody = misc_en_US_repass.NotMetered //he.a.m4_en_US_repass.EdokasSimeiosin.name
+meVE.Stichera02.melody = he.a.m4_en_US_repass.EdokasSimeiosin.notmetered
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_repass.Mode4
-meVE.Stichera03.melody = misc_en_US_repass.NotMetered //he.a.m4_en_US_repass.EdokasSimeiosin.name
+meVE.Stichera03.melody = he.a.m4_en_US_repass.EdokasSimeiosin.notmetered
 meVE.Stichera03.text = ""
 
 meVE.SticGlory.mode = misc_en_US_repass.Mode2
@@ -31,15 +31,15 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.Aposticha1.mode = misc_en_US_repass.Mode1
-meVE.Aposticha1.melody = misc_en_US_repass.NotMetered //he.a.m1_en_US_repass.PaneffimoiMartyres.name
+meVE.Aposticha1.melody = he.a.m1_en_US_repass.PaneffimoiMartyres.notmetered
 meVE.Aposticha1.text = "You were God's only animate palace, O Mother of God, and you have bestowed on your holy house your precious raiment, a sacred object treasured up by the faithful, and an impregnable wall, through which your city is preserved, which sings in praise of your divine dominion."
 
 meVE.Aposticha2.mode = misc_en_US_repass.Mode1
-meVE.Aposticha2.melody = misc_en_US_repass.NotMetered //he.a.m1_en_US_repass.PaneffimoiMartyres.name
+meVE.Aposticha2.melody = he.a.m1_en_US_repass.PaneffimoiMartyres.notmetered
 meVE.Aposticha2.text = "Your honorable robe, which covered your honorable and holy body, you have granted to all, as a treasure of glory and fountain gushing ever-living streams of grace. We celebrate its placing, O stately Theotokos, honoring you, who have honored all people."
 
 meVE.Aposticha3.mode = misc_en_US_repass.Mode1
-meVE.Aposticha3.melody = misc_en_US_repass.NotMetered //he.a.m1_en_US_repass.PaneffimoiMartyres.name
+meVE.Aposticha3.melody = he.a.m1_en_US_repass.PaneffimoiMartyres.notmetered
 meVE.Aposticha3.text = "Your house, O Sovereign Lady, bears your sacred veil at all times, as a treasure of sanctification. It sanctifies us all, who flock to it and duly bless you, having in it the hope, security, protection, and support of our souls."
 
 meVE.AposGlory.mode = misc_en_US_repass.Mode2
@@ -51,11 +51,11 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = misc_en_US_repass.Mode4
-meMA.Kathisma11.melody = misc_en_US_repass.NotMetered //he.a.m4_en_US_repass.EpefanisSimeron.name
+meMA.Kathisma11.melody = he.a.m4_en_US_repass.EpefanisSimeron.notmetered
 meMA.Kathisma11.text = "Your people, O all-praised Maiden, celebrates today the feast of the placing of your sacred Robe, and fervently cries out to you: Rejoice, O Virgin, the joy of Christians."
 
 meMA.Kathisma21.mode = misc_en_US_repass.Mode4
-meMA.Kathisma21.melody = misc_en_US_repass.NotMetered //he.a.m4_en_US_repass.EpefanisSimeron.name
+meMA.Kathisma21.melody = he.a.m4_en_US_repass.EpefanisSimeron.notmetered
 meMA.Kathisma21.text = "Today the inhabited earth celebrates the sacred placing of your Robe, O holy Lady, and with love cries out to you: Rejoice, O Virgin, help of the faithful."
 
 meMA.C1Acrostic.text = ""
@@ -152,7 +152,7 @@ meMA.Ode3H.melody = misc_en_US_repass.HeirmosNotMetered
 meMA.Ode3H.text = "Your Church rejoices in you, O Christ, and cries aloud: You are my strength, O Lord, and my refuge and confirmation." //he.h.m4_en_US_repass.EffrainetaiEpiSoi.text
 
 meMA.Ode3Kathisma1.mode = misc_en_US_repass.Mode4
-meMA.Ode3Kathisma1.melody = misc_en_US_repass.NotMetered //he.a.m4_en_US_repass.OYpsotheisEnToStavro.name
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_repass.OYpsotheisEnToStavro.notmetered
 meMA.Ode3Kathisma1.text = "Rivers of miracles come forth from your all-sacred reliquary, as from Eden, O Theotokos, watering the face of the earth, and pouring out graces to those faithfully honoring you; therefore, we hymn and devoutly praise you, and we always thankfully cry out: Rejoice, O only hope of those who sing your praises."
 
 meMA.Ode4C1H.ode = misc_en_US_repass.Ode4
@@ -281,7 +281,7 @@ meMA.Ode6H.melody = misc_en_US_repass.HeirmosNotMetered
 meMA.Ode6H.text = "I will sacrifice to you with a voice of praise, O Lord, the Church cries out to you, having been cleansed from the defilement of blood offered to demons, by the blood which, for mercy's sake, flowed from your side." //he.h.m4_en_US_repass.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = misc_en_US_repass.Mode4
-meMA.Kontakion1.melody = misc_en_US_repass.NotMetered //he.a.m4_en_US_repass.OYpsotheisEnToStavro.name
+meMA.Kontakion1.melody = he.a.m4_en_US_repass.OYpsotheisEnToStavro.notmetered
 meMA.Kontakion1.text = "O Pure one, full of divine grace, you have bestowed on all the faithful your sacred Robe with which you covered your holy body, as a vesture of incorruption, a divine protection of mankind. With love we celebrate its deposition, shouting and crying out in faith: Rejoice,, O Virgin, the boast of Christians!"
 
 meMA.Oikos1.text = "Let all of us who were saved through her childbearing bless, in faith, the pure and true tabernacle of the Word of God, the living cloud and the jar of manna, Mary the Theotokos; and let us kiss the reverenced Robe which she placed around the Master when she carried him, an infant clothed in flesh. By this Robe the nature of mortals is lifted up to the exalted life and kingdom; therefore, joyfully, we cry with loud voices: Rejoice, O Virgin, the boast of Christians."
@@ -434,19 +434,19 @@ meMA.Ode9H.melody = misc_en_US_repass.HeirmosNotMetered
 meMA.Ode9H.text = "A stone cut without hands was cut from you, an unhewn mountain, O Virgin: even Christ the cornerstone, who united the separate natures. Therefore, in joy, O Theotokos, we magnify you." //he.h.m4_en_US_repass.LithosAcheirotmitos.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_repass.Mode3
-meMA.Exaposteilarion1.melody = misc_en_US_repass.NotMetered //he.a.m3_en_US_repass.FosAnalloioton.name
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_repass.FosAnalloioton.notmetered
 meMA.Exaposteilarion1.text = "You alone have renewed both nature and time, O Mother of God; for chaste was your giving of birth, and incorruptible is the Robe with which you protect your city and by which you strengthen the scepters of true piety."
 
 meMA.Lauds1.mode = misc_en_US_repass.Mode4
-meMA.Lauds1.melody = misc_en_US_repass.NotMetered //he.a.m4_en_US_repass.OsGennaionEnMartysi.name
+meMA.Lauds1.melody = he.a.m4_en_US_repass.OsGennaionEnMartysi.notmetered
 meMA.Lauds1.text = "The chest containing your Robe, O undefiled Maiden, is known to your servants day by day as an ark of sanctification, a sacred wall of defense, a glory and exultation, and a spring of healings. Having gathered there today, we reverently praise your many great works and the sea of your wonders."
 
 meMA.Lauds2.mode = misc_en_US_repass.Mode4
-meMA.Lauds2.melody = misc_en_US_repass.NotMetered //he.a.m4_en_US_repass.OsGennaionEnMartysi.name
+meMA.Lauds2.melody = he.a.m4_en_US_repass.OsGennaionEnMartysi.notmetered
 meMA.Lauds2.text = "Behold the illustrious place, behold the ever-shining house in which the Robe of the Child of God is treasured up as a precious gift. Draw near, O people, to obtain from it illumination and cleansing for yourselves, and cry out with thankful hearts: O All-holy Virgin, we who have been saved through your childbearing, bless you."
 
 meMA.Lauds3.mode = misc_en_US_repass.Mode4
-meMA.Lauds3.melody = misc_en_US_repass.NotMetered //he.a.m4_en_US_repass.OsGennaionEnMartysi.name
+meMA.Lauds3.melody = he.a.m4_en_US_repass.OsGennaionEnMartysi.notmetered
 meMA.Lauds3.text = "We hold the holy deposition of your Robe as a festival, O Lady, and we rejoice, for today you have counted your city worthy to be given a sacred vesture, an inviolate protection, a precious gift, a wealth of healings that cannot be taken away, a river filled with the gifts of the Spirit."
 
 meMA.LaudsGlory.mode = misc_en_US_repass.Mode2

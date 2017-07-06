@@ -15,23 +15,23 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meMA.Exaposteilarion1.mode = misc_en_US_repass.Mode2
-meMA.Exaposteilarion1.melody = misc_en_US_repass.NotMetered //he.a.m2_en_US_repass.TonMathitonOrontonSe.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_repass.TonMathitonOrontonSe.notmetered
 meMA.Exaposteilarion1.text = "The first of the Martyrs, Stephen – also the first chosen of Deacons – has completed his path. Look! Filled with grace, he is brought back to the royal city, abounding in gifts of miracles."
 
 meMA.ExapTheotokion.mode = misc_en_US_repass.Mode2
-meMA.ExapTheotokion.melody = misc_en_US_repass.NotMetered //he.a.m2_en_US_repass.TonMathitonOrontonSe.name
+meMA.ExapTheotokion.melody = he.a.m2_en_US_repass.TonMathitonOrontonSe.notmetered
 meMA.ExapTheotokion.text = "Christ, before whom the ranks on high in great trepidation stand, not bearing to gaze on the brightness of his ineffable essence – you contained in the womb, O Virgin, when he received flesh from your honorable blood."
 
 meMA.Lauds1.mode = misc_en_US_repass.Mode4
-meMA.Lauds1.melody = misc_en_US_repass.NotMetered //he.a.m4_en_US_repass.EdokasSimeiosin.name
+meMA.Lauds1.melody = he.a.m4_en_US_repass.EdokasSimeiosin.notmetered
 meMA.Lauds1.text = "Having become an angel on earth, the protomartyr was lifted up on high, ascending to the heavens, and he saw the divine glory as much as he was able, being made an initiate even of the mysteries of the unapproachable Trinity beyond mind. Therefore he proclaims your incomprehensible power, O almighty Jesus, Savior of our souls."
 
 meMA.Lauds2.mode = misc_en_US_repass.Mode4
-meMA.Lauds2.melody = misc_en_US_repass.NotMetered //he.a.m4_en_US_repass.EdokasSimeiosin.name
+meMA.Lauds2.melody = he.a.m4_en_US_repass.EdokasSimeiosin.notmetered
 meMA.Lauds2.text = "Beautiful appeared your return, and adorned with rays of divine gifts and healings, O Stephen, all-glorious protomartyr. Therefore it has enlightened all the faithful with your wonders, and in faith they praise the lover of man, singing hymns and saying: Almighty Jesus, Savior of our souls!"
 
 meMA.Lauds3.mode = misc_en_US_repass.Mode4
-meMA.Lauds3.melody = misc_en_US_repass.NotMetered //he.a.m4_en_US_repass.EdokasSimeiosin.name
+meMA.Lauds3.melody = he.a.m4_en_US_repass.EdokasSimeiosin.notmetered
 meMA.Lauds3.text = "Your tongue was revealed as an extremely precious, swift-writing pen of piety, with which you enlightened us all through your teachings, leading us up from ignorance to piety, O Protomartyr. Therefore as we celebrate your annual festivity, we sing hymns, honoring your struggles, O Stephen."
 
 meMA.LaudsGlory.mode = misc_en_US_repass.Mode4
