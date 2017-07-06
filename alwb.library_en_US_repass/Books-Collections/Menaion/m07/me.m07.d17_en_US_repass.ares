@@ -75,7 +75,7 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "At the right hand of the Savior stood the virgin and prize-winner and invincible martyr, arrayed with virtues and adorned with the oil of purity and with the blood of her struggle; and she cried out to him in great joy, bearing her lamp: \"I ran to the fragrance of your myrrh, O Christ God, for I was wounded by your love; do not separate me from you, O heavenly Bridegroom.\" By her entreaties, O Almighty Savior, send down on us your mercies."
 
 meVE.AposTheotokion.mode = misc_en_US_repass.Mode6
-meVE.AposTheotokion.melody = misc_en_US_repass.NotMetered //he.o_en_US_repass.TheotokeSyEi.name
+meVE.AposTheotokion.melody = "" //he.o_en_US_repass.TheotokeSyEi.name
 meVE.AposTheotokion.text = "O Theotokos, you are the true vine that has put forth the fruit of life. Intercede, O lady, together with the Apostles and all the Saints, that mercy may be granted to our souls." //he.o_en_US_repass.TheotokeSyEiAthliforou.text
 
 meVE.Apolytikion1.poet = poets_en_US_repass.Gerasimou

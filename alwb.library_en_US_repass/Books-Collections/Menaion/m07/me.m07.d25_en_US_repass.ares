@@ -41,7 +41,7 @@ meVE.Stichera06.text = "Today we, the choirs of the faithful, most reverently ce
 meVE.SticGlory.poet = poets_en_US_repass.Anatoliou
 meVE.SticGlory.mode = misc_en_US_repass.Mode8
 meVE.SticGlory.melody = misc_en_US_repass.NotMetered //""
-meVE.SticGlory.text = "The blameless pair, Joachim and Anna, have flowered forth a holy shoot from fruitless loins, the Theotokos, from whom dawns forth to the world the salvation that is Christ our God. Now the holy couple have been translated to the heavenly dwellings, and they dance with their daughter, the utterly underfiled Virgin, and with the Angels, making intercession for the world. And we, having come together hymning them in piety, say, \"You that have been named ancestors of Christ through the All-chaste Mary who bears a divine Son, intercede in behalf of our souls.\""
+meVE.SticGlory.text = "The blameless pair, Joachim and Anna, have flowered forth a holy shoot from fruitless loins, the Theotokos, from whom dawns forth to the world the salvation that is Christ our God. Now the holy couple have been translated to the heavenly dwellings, and they dance with their daughter, the utterly underfiled Virgin, and with the Angels, making intercession for the world. And we, having come together hymning them in piety, say, \"You that have been.notmeteredd ancestors of Christ through the All-chaste Mary who bears a divine Son, intercede in behalf of our souls.\""
 
 meVE.Lity1.mode = misc_en_US_repass.Mode1
 meVE.Lity1.melody = misc_en_US_repass.NotMetered //""
@@ -98,42 +98,42 @@ meMA.C1.verse = ""
 
 meMA.Ode1C11.ode = misc_en_US_repass.Ode1
 meMA.Ode1C11.mode = misc_en_US_repass.Mode4
-meMA.Ode1C11.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.AnoixoToStomaMou.name
+meMA.Ode1C11.melody = he.h.m4_en_US_repass.AnoixoToStomaMou.notmetered
 meMA.Ode1C11.text = "Forgiveness of transgressions, deliverance from ills, amendment of life, and divine illumination, now ask for me, who today honor your luminofffus commemoration, all-praiseworthy Anna."
 
 meMA.Ode1C12.ode = misc_en_US_repass.Ode1
 meMA.Ode1C12.mode = misc_en_US_repass.Mode4
-meMA.Ode1C12.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.AnoixoToStomaMou.name
+meMA.Ode1C12.melody = he.h.m4_en_US_repass.AnoixoToStomaMou.notmetered
 meMA.Ode1C12.text = "Divinely you conceived her who conceived life; therefore, you were translated to everlasting life, enjoying ineffable joy and the light without evening, O Anna, called by God."
 
 meMA.Ode1C13.ode = misc_en_US_repass.Ode1
 meMA.Ode1C13.mode = misc_en_US_repass.Mode4
-meMA.Ode1C13.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.AnoixoToStomaMou.name
+meMA.Ode1C13.melody = he.h.m4_en_US_repass.AnoixoToStomaMou.notmetered
 meMA.Ode1C13.text = "The God-filled grace passed over to the joy whom her pure daughter had brought forth without seed, and she stands before the Lord, with great boldness interceding that we may be saved."
 
 meMA.Ode1C1T.ode = misc_en_US_repass.Ode1
 meMA.Ode1C1T.mode = misc_en_US_repass.Mode4
-meMA.Ode1C1T.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.AnoixoToStomaMou.name
+meMA.Ode1C1T.melody = he.h.m4_en_US_repass.AnoixoToStomaMou.notmetered
 meMA.Ode1C1T.text = "From you, the Sun of righteousness shined to us, and illumined the whole earth with the knowledge of God, and dissolved the mist of godlessness, O all-immaculate, most blessed Pure Theotokos."
 
 meMA.Ode3C11.ode = misc_en_US_repass.Ode3
 meMA.Ode3C11.mode = misc_en_US_repass.Mode4
-meMA.Ode3C11.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.OukEnSofia.name
+meMA.Ode3C11.melody = he.h.m4_en_US_repass.OukEnSofia.notmetered
 meMA.Ode3C11.text = "You conceived her who conceived him who sustains all, and you carried in the womb her who, beyond word, carried Christ in the womb; therefore, O Anna, we honor your dormition."
 
 meMA.Ode3C12.ode = misc_en_US_repass.Ode3
 meMA.Ode3C12.mode = misc_en_US_repass.Mode4
-meMA.Ode3C12.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.OukEnSofia.name
+meMA.Ode3C12.melody = he.h.m4_en_US_repass.OukEnSofia.notmetered
 meMA.Ode3C12.text = "With praises is your glorious commemoration performed, for you bore for us her who is beyond praise, the pure Mother of God, O Anna, called of God."
 
 meMA.Ode3C13.ode = misc_en_US_repass.Ode3
 meMA.Ode3C13.mode = misc_en_US_repass.Mode4
-meMA.Ode3C13.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.OukEnSofia.name
+meMA.Ode3C13.melody = he.h.m4_en_US_repass.OukEnSofia.notmetered
 meMA.Ode3C13.text = "The illustrious Joachim, being united to Anna as the sun to the moon, begets the ray of virginity through whom the sunlight of the deity dawned forth."
 
 meMA.Ode3C1T.ode = misc_en_US_repass.Ode3
 meMA.Ode3C1T.mode = misc_en_US_repass.Mode4
-meMA.Ode3C1T.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.OukEnSofia.name
+meMA.Ode3C1T.melody = he.h.m4_en_US_repass.OukEnSofia.notmetered
 meMA.Ode3C1T.text = "We have obtained you as a steadfast protector, O Mother of God; placing all our hopes on you, we are being saved; fleeing to you for refuge, we are guarded on all sides."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_repass.Mode8
@@ -142,62 +142,62 @@ meMA.Ode3Kathisma1.text = "Anna all-glorious, you became mother of the mother of
 
 meMA.Ode4C11.ode = misc_en_US_repass.Ode4
 meMA.Ode4C11.mode = misc_en_US_repass.Mode4
-meMA.Ode4C11.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.OKathimenosEnDoxi.name
+meMA.Ode4C11.melody = he.h.m4_en_US_repass.OKathimenosEnDoxi.notmetered
 meMA.Ode4C11.text = "Meditating upon the writings in the law, you brought them to fulfillment. You were the mother of the mother of the Lawgiver; therefore, now all creation is indebted to you, joyfully performing your memorial solemnity."
 
 meMA.Ode4C12.ode = misc_en_US_repass.Ode4
 meMA.Ode4C12.mode = misc_en_US_repass.Mode4
-meMA.Ode4C12.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.OKathimenosEnDoxi.name
+meMA.Ode4C12.melody = he.h.m4_en_US_repass.OKathimenosEnDoxi.notmetered
 meMA.Ode4C12.text = "Truly blessed is your womb that carried her who carried in her womb the light of the world, and virtuous, O Anna, are your breasts, since they nursed her that nursed Christ, who is our food."
 
 meMA.Ode4C13.ode = misc_en_US_repass.Ode4
 meMA.Ode4C13.mode = misc_en_US_repass.Mode4
-meMA.Ode4C13.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.OKathimenosEnDoxi.name
+meMA.Ode4C13.melody = he.h.m4_en_US_repass.OKathimenosEnDoxi.notmetered
 meMA.Ode4C13.text = "As one who lived blamelessly, you brought forth the Theotokos, the Maiden who blamelessly brought forth the Word of the Father, and in glory you passed over to him, being deified most truly by holy participations."
 
 meMA.Ode4C1T.ode = misc_en_US_repass.Ode4
 meMA.Ode4C1T.mode = misc_en_US_repass.Mode4
-meMA.Ode4C1T.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.OKathimenosEnDoxi.name
+meMA.Ode4C1T.melody = he.h.m4_en_US_repass.OKathimenosEnDoxi.notmetered
 meMA.Ode4C1T.text = "The womb of the Virgin was truly revealed as the grain stack on the threshing floor containing the unhusbanded ear of grain through which every creature is nourished and cries out: Glory to your might, O all-powerful Christ!"
 
 meMA.Ode5C11.ode = misc_en_US_repass.Ode5
 meMA.Ode5C11.mode = misc_en_US_repass.Mode4
-meMA.Ode5C11.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.AseveisOukOpsontai.name
+meMA.Ode5C11.melody = he.h.m4_en_US_repass.AseveisOukOpsontai.notmetered
 meMA.Ode5C11.text = "You carried in your womb heaven on earth, since she whom you carried, truly gave birth to the Maker of heaven, who today has translated you to the heavenly places, with glory, O glorious Anna."
 
 meMA.Ode5C12.ode = misc_en_US_repass.Ode5
 meMA.Ode5C12.mode = misc_en_US_repass.Mode4
-meMA.Ode5C12.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.AseveisOukOpsontai.name
+meMA.Ode5C12.melody = he.h.m4_en_US_repass.AseveisOukOpsontai.notmetered
 meMA.Ode5C12.text = "With the immaterial orders of the immaterial intellect, you joyfully dance, being filled with the radiance of him who bestows riches; but remember us who are remembering you."
 
 meMA.Ode5C13.ode = misc_en_US_repass.Ode5
 meMA.Ode5C13.mode = misc_en_US_repass.Mode4
-meMA.Ode5C13.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.AseveisOukOpsontai.name
+meMA.Ode5C13.melody = he.h.m4_en_US_repass.AseveisOukOpsontai.notmetered
 meMA.Ode5C13.text = "Glorious Anna, you blossom forth the Pure one, the flourishing staff that plainly blossomed from the root of Jesse and put forth the unfading flower, Jesus our Deliverer."
 
 meMA.Ode5C1T.ode = misc_en_US_repass.Ode5
 meMA.Ode5C1T.mode = misc_en_US_repass.Mode4
-meMA.Ode5C1T.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.AseveisOukOpsontai.name
+meMA.Ode5C1T.melody = he.h.m4_en_US_repass.AseveisOukOpsontai.notmetered
 meMA.Ode5C1T.text = "I have fled for refuge to you, the only strong shelter of the faithful; in you I place the hope of my salvation. All-holy Lady Theotokos, do not overlook me."
 
 meMA.Ode6C11.ode = misc_en_US_repass.Ode6
 meMA.Ode6C11.mode = misc_en_US_repass.Mode4
-meMA.Ode6C11.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.ThysoSoiMetaFonis.name
+meMA.Ode6C11.melody = he.h.m4_en_US_repass.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C11.text = "Let both Joachim and Anna, the ancestors of the Lord, Jesus our God, who are adorned by righteousness, be worthily praised today in odes."
 
 meMA.Ode6C12.ode = misc_en_US_repass.Ode6
 meMA.Ode6C12.mode = misc_en_US_repass.Mode4
-meMA.Ode6C12.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.ThysoSoiMetaFonis.name
+meMA.Ode6C12.melody = he.h.m4_en_US_repass.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C12.text = "Anna transcends all praises, for she conceived her who excels every praise; therefore she dwells amidst the chorus of the saints."
 
 meMA.Ode6C13.ode = misc_en_US_repass.Ode6
 meMA.Ode6C13.mode = misc_en_US_repass.Mode4
-meMA.Ode6C13.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.ThysoSoiMetaFonis.name
+meMA.Ode6C13.melody = he.h.m4_en_US_repass.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C13.text = "Your commemoration, luminous and full of brightness, sends out saving gleams, filled with every kind of spiritual gift, to those in the world, O sober Anna."
 
 meMA.Ode6C1T.ode = misc_en_US_repass.Ode6
 meMA.Ode6C1T.mode = misc_en_US_repass.Mode4
-meMA.Ode6C1T.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.ThysoSoiMetaFonis.name
+meMA.Ode6C1T.melody = he.h.m4_en_US_repass.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C1T.text = "From Anna you were born, and after giving birth to the King of all, you remained a Virgin, Ο all-blameless Queen of the world, higher than the Cherubim."
 
 meMA.Kontakion1.mode = misc_en_US_repass.Mode2
@@ -210,67 +210,67 @@ meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_repass.Ode7
 meMA.Ode7C11.mode = misc_en_US_repass.Mode4
-meMA.Ode7C11.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.ODiasosasEnPyri.name
+meMA.Ode7C11.melody = he.h.m4_en_US_repass.ODiasosasEnPyri.notmetered
 meMA.Ode7C11.text = "As you, Anna, had given birth to the mother of the true life, you were transferred to the true life, faithfully crying aloud: O Lord worthy of supreme praise, blessed are you, the God of the Fathers."
 
 meMA.Ode7C12.ode = misc_en_US_repass.Ode7
 meMA.Ode7C12.mode = misc_en_US_repass.Mode4
-meMA.Ode7C12.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.ODiasosasEnPyri.name
+meMA.Ode7C12.melody = he.h.m4_en_US_repass.ODiasosasEnPyri.notmetered
 meMA.Ode7C12.text = "Called mother of the mother of our Redeemer, O Anna, you went straight from earth to heaven, adorned with virtues and crying out in praise: Blessed are you, the God of the Fathers."
 
 meMA.Ode7C13.ode = misc_en_US_repass.Ode7
 meMA.Ode7C13.mode = misc_en_US_repass.Mode4
-meMA.Ode7C13.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.ODiasosasEnPyri.name
+meMA.Ode7C13.melody = he.h.m4_en_US_repass.ODiasosasEnPyri.notmetered
 meMA.Ode7C13.text = "You journeyed to the unending life, to the most wide breadth of the Paradise of joy, to the light that knows no evening, O God-bearing saint, crying aloud: Blessed are you, the God of the Fathers."
 
 meMA.Ode7C1T.ode = misc_en_US_repass.Ode7
 meMA.Ode7C1T.mode = misc_en_US_repass.Mode4
-meMA.Ode7C1T.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.ODiasosasEnPyri.name
+meMA.Ode7C1T.melody = he.h.m4_en_US_repass.ODiasosasEnPyri.notmetered
 meMA.Ode7C1T.text = "Adorned with the beauty of virtues, all-blameless Virgin, you gave birth to the Word who is the fairest of the sons of the earthborn, who adorns with pleasing beauty those who praise him with hymnody."
 
 meMA.Ode8C11.ode = misc_en_US_repass.Ode8
 meMA.Ode8C11.mode = misc_en_US_repass.Mode4
-meMA.Ode8C11.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.PaidasEvageis.name
+meMA.Ode8C11.melody = he.h.m4_en_US_repass.PaidasEvageis.notmetered
 meMA.Ode8C11.text = "She who was formerly barren, the mother of the only Theotokos, is now the ancestress of Christ; as she put off the garment of barrenness, so too she put off that of mortality, and in the land of the living she cries out: Let all the works bless the Lord and supremely exalt him throughout all ages."
 
 meMA.Ode8C12.ode = misc_en_US_repass.Ode8
 meMA.Ode8C12.mode = misc_en_US_repass.Mode4
-meMA.Ode8C12.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.PaidasEvageis.name
+meMA.Ode8C12.melody = he.h.m4_en_US_repass.PaidasEvageis.notmetered
 meMA.Ode8C12.text = "Christ, having trampled the gates [of hades] underfoot, joyfully opens to you those of heaven; for you gave birth to the gate through which he passed, and which he showed again as closed after the passage, O godly-wise, marvelous Anna; therefore, we honor you throughout all ages."
 
 meMA.Ode8C13.ode = misc_en_US_repass.Ode8
 meMA.Ode8C13.mode = misc_en_US_repass.Mode4
-meMA.Ode8C13.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.PaidasEvageis.name
+meMA.Ode8C13.melody = he.h.m4_en_US_repass.PaidasEvageis.notmetered
 meMA.Ode8C13.text = "Having completed your life in a holy manner, you became Mother of the Holy ever-virgin who brought forth the all-holy Word who grants to us sanctification and deliverance; therefore, we honor you, O O godly-minded, most admirable Anna, throughout all ages."
 
 meMA.Ode8C1T.ode = misc_en_US_repass.Ode8
 meMA.Ode8C1T.mode = misc_en_US_repass.Mode4
-meMA.Ode8C1T.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.PaidasEvageis.name
+meMA.Ode8C1T.melody = he.h.m4_en_US_repass.PaidasEvageis.notmetered
 meMA.Ode8C1T.text = "I am imperiled by many dangers and menaced by a storm of sin. Guide me now to a quiet harbor, by the breezes of the Spirit, O Lady, Parent of God, for you are a haven of Christians; therefore, we hymn you throughout all ages."
 
 meMA.Ode9C11.ode = misc_en_US_repass.Ode9
 meMA.Ode9C11.mode = misc_en_US_repass.Mode4
-meMA.Ode9C11.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.EvaMenToTisParakois.name
+meMA.Ode9C11.melody = he.h.m4_en_US_repass.EvaMenToTisParakois.notmetered
 meMA.Ode9C11.text = "Eve by the sickness of disobedience brought in the curse; but you, when loosed from the curse of barrenness, conceived and bore the pure Mother of God who gave birth to blessing; with her you dance, O Anna all-marvelous."
 
 meMA.Ode9C12.ode = misc_en_US_repass.Ode9
 meMA.Ode9C12.mode = misc_en_US_repass.Mode4
-meMA.Ode9C12.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.EvaMenToTisParakois.name
+meMA.Ode9C12.melody = he.h.m4_en_US_repass.EvaMenToTisParakois.notmetered
 meMA.Ode9C12.text = "From the earth of your womb was truly engendered the holy untilled earth that without seed sprouted forth the grain that feeds the world: the Lord, who all-wisely translated you, Anna, to inexhaustible delight."
 
 meMA.Ode9C13.ode = misc_en_US_repass.Ode9
 meMA.Ode9C13.mode = misc_en_US_repass.Mode4
-meMA.Ode9C13.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.EvaMenToTisParakois.name
+meMA.Ode9C13.melody = he.h.m4_en_US_repass.EvaMenToTisParakois.notmetered
 meMA.Ode9C13.text = "You attained to blissful and incorrupt life after your end, all-praised Anna; now you partake of the tree of life, rejoicing with the congregations of the Righteous and the companies of divine Bodiless hosts; therefore, we all call you blessed."
 
 meMA.Ode9C14.ode = misc_en_US_repass.Ode9
 meMA.Ode9C14.mode = misc_en_US_repass.Mode4
-meMA.Ode9C14.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.EvaMenToTisParakois.name
+meMA.Ode9C14.melody = he.h.m4_en_US_repass.EvaMenToTisParakois.notmetered
 meMA.Ode9C14.text = "Your commemoration has dawned for us today brighter than the sun, enlightening us with a rich radiance of spiritual gifts and annulling the darkness of misfortunes. O all-august Anna, keep watch over us who celebrate it."
 
 meMA.Ode9C1T.ode = misc_en_US_repass.Ode9
 meMA.Ode9C1T.mode = misc_en_US_repass.Mode4
-meMA.Ode9C1T.melody = misc_en_US_repass.NotMetered //he.h.m4_en_US_repass.EvaMenToTisParakois.name
+meMA.Ode9C1T.melody = he.h.m4_en_US_repass.EvaMenToTisParakois.notmetered
 meMA.Ode9C1T.text = "O Mary, Mistress of all, set me free who am in bondage to many diverse sins, for at the divine bidding you gave birth to the liberator of all people, who redeemed us from enslavement to sin."
 
 meMA.Exaposteilarion1.mode = misc_en_US_repass.Mode2
