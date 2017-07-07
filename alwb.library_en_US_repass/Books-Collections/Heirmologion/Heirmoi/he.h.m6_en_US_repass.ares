@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = he.h.m6_en_US_repass
 
 AfrastonThavma.notmetered = "Not Metered (Ineffable wonder!)"
-AfrastonThavma.name = ""
+AfrastonThavma.name = "Ineffable wonder!"
 AfrastonThavma.mode = misc_en_US_repass.Mode6
 AfrastonThavma.ode = misc_en_US_repass.Ode7
 AfrastonThavma.text = ""
@@ -19,49 +19,49 @@ AkikoaKyrieTinAkoin.ode = misc_en_US_repass.Ode4
 AkikoaKyrieTinAkoin.text = ""
 
 AkikoenOProfitis.notmetered = "Not Metered (On hearing about Your advent.)"
-AkikoenOProfitis.name = ""
+AkikoenOProfitis.name = "On hearing about Your advent."
 AkikoenOProfitis.mode = misc_en_US_repass.Mode6
 AkikoenOProfitis.ode = misc_en_US_repass.Ode4
 AkikoenOProfitis.text = ""
 
 AporeiPasaGlossa.notmetered = "Not Metered (Every tongue.)"
-AporeiPasaGlossa.name = ""
+AporeiPasaGlossa.name = "Every tongue."
 AporeiPasaGlossa.mode = misc_en_US_repass.Mode6
 AporeiPasaGlossa.ode = misc_en_US_repass.Ode9
 AporeiPasaGlossa.text = ""
 
 AsporouSyllipseos.notmetered = "Not Metered (The birth is ineffable.)"
-AsporouSyllipseos.name = ""
+AsporouSyllipseos.name = "The birth is ineffable."
 AsporouSyllipseos.mode = misc_en_US_repass.Mode6
 AsporouSyllipseos.ode = misc_en_US_repass.Ode9
 AsporouSyllipseos.text = ""
 
 AvyssosEschati.notmetered = "Not Metered (The lowest depth.)"
-AvyssosEschati.name = ""
+AvyssosEschati.name = "The lowest depth."
 AvyssosEschati.mode = misc_en_US_repass.Mode6
 AvyssosEschati.ode = misc_en_US_repass.Ode6
 AvyssosEschati.text = ""
 
 ChristosMouDynamis.notmetered = "Not Metered (O Christ, my strength.)"
-ChristosMouDynamis.name = ""
+ChristosMouDynamis.name = "O Christ, my strength."
 ChristosMouDynamis.mode = misc_en_US_repass.Mode6
 ChristosMouDynamis.ode = misc_en_US_repass.Ode4
 ChristosMouDynamis.text = ""
 
 DrosovolonMenTinKaminon.notmetered = "Not Metered (Once the Angel.)"
-DrosovolonMenTinKaminon.name = ""
+DrosovolonMenTinKaminon.name = "Once the Angel."
 DrosovolonMenTinKaminon.mode = misc_en_US_repass.Mode6
 DrosovolonMenTinKaminon.ode = misc_en_US_repass.Ode7
 DrosovolonMenTinKaminon.text = ""
 
 EkFlogosToisOsiois.notmetered = "Not Metered (You made dew gush.)"
-EkFlogosToisOsiois.name = ""
+EkFlogosToisOsiois.name = "You made dew gush."
 EkFlogosToisOsiois.mode = misc_en_US_repass.Mode6
 EkFlogosToisOsiois.ode = misc_en_US_repass.Ode8
 EkFlogosToisOsiois.text = ""
 
 EkNyktosOrthrizonta.notmetered = "Not Metered (Early in the morning.)"
-EkNyktosOrthrizonta.name = ""
+EkNyktosOrthrizonta.name = "Early in the morning."
 EkNyktosOrthrizonta.mode = misc_en_US_repass.Mode6
 EkNyktosOrthrizonta.ode = misc_en_US_repass.Ode5
 EkNyktosOrthrizonta.text = ""
@@ -73,7 +73,7 @@ EkalypsenOuranous.ode = misc_en_US_repass.Ode4
 EkalypsenOuranous.text = ""
 
 EkstithiFrittonOurane.notmetered = "Not Metered (Heaven, be astonished.)"
-EkstithiFrittonOurane.name = ""
+EkstithiFrittonOurane.name = "Heaven, be astonished."
 EkstithiFrittonOurane.mode = misc_en_US_repass.Mode6
 EkstithiFrittonOurane.ode = misc_en_US_repass.Ode8
 EkstithiFrittonOurane.text = ""
@@ -96,13 +96,13 @@ EpiTinAsaleftonChriste.ode = misc_en_US_repass.Ode3
 EpiTinAsaleftonChriste.text = ""
 
 EvoisaEnOliKardiaMou.notmetered = "Not Metered (I cried aloud and shouted.)"
-EvoisaEnOliKardiaMou.name = ""
+EvoisaEnOliKardiaMou.name = "I cried aloud and shouted."
 EvoisaEnOliKardiaMou.mode = misc_en_US_repass.Mode6
 EvoisaEnOliKardiaMou.ode = misc_en_US_repass.Ode6
 EvoisaEnOliKardiaMou.text = ""
 
 IToChaireDiAngelou.notmetered = "Not Metered (You received the joyful message.)"
-IToChaireDiAngelou.name = ""
+IToChaireDiAngelou.name = "You received the joyful message."
 IToChaireDiAngelou.mode = misc_en_US_repass.Mode6
 IToChaireDiAngelou.ode = misc_en_US_repass.Ode9
 IToChaireDiAngelou.text = ""
@@ -114,13 +114,13 @@ IdeteIdete.ode = misc_en_US_repass.Ode2
 IdeteIdete.text = ""
 
 ImartomenInomisamen.notmetered = "Not Metered (We sinned, O Lord.)"
-ImartomenInomisamen.name = ""
+ImartomenInomisamen.name = "We sinned, O Lord."
 ImartomenInomisamen.mode = misc_en_US_repass.Mode6
 ImartomenInomisamen.ode = misc_en_US_repass.Ode7
 ImartomenInomisamen.text = ""
 
 KymatiThalassis.notmetered = "Not Metered (He, who with a sea-wave.)"
-KymatiThalassis.name = ""
+KymatiThalassis.name = "He, who with a sea-wave."
 KymatiThalassis.mode = misc_en_US_repass.Mode6
 KymatiThalassis.ode = misc_en_US_repass.Ode1
 KymatiThalassis.text = ""
@@ -131,7 +131,7 @@ KymatiThalassis_Epiphany.ode = misc_en_US_repass.Ode1
 KymatiThalassis_Epiphany.text = ""
 
 KyriosOnPanton.notmetered = "Not Metered (Lord of all and Creator.)"
-KyriosOnPanton.name = ""
+KyriosOnPanton.name = "Lord of all and Creator."
 KyriosOnPanton.mode = misc_en_US_repass.Mode6
 KyriosOnPanton.ode = misc_en_US_repass.Ode3
 KyriosOnPanton.text = ""
@@ -147,13 +147,13 @@ MiEpodyrestheMatin.ode = misc_en_US_repass.Ode9
 MiEpodyrestheMatin.text = ""
 
 MiEpodyrouMouMiter.notmetered = "Not Metered (Weep not for Me, O Mother.)"
-MiEpodyrouMouMiter.name = ""
+MiEpodyrouMouMiter.name = "Weep not for Me, O Mother."
 MiEpodyrouMouMiter.mode = misc_en_US_repass.Mode6
 MiEpodyrouMouMiter.ode = misc_en_US_repass.Ode9
 MiEpodyrouMouMiter.text = ""
 
 NomonPatroon.notmetered = "Not Metered (Braving all danger.)"
-NomonPatroon.name = ""
+NomonPatroon.name = "Braving all danger."
 NomonPatroon.mode = misc_en_US_repass.Mode6
 NomonPatroon.ode = misc_en_US_repass.Ode8
 NomonPatroon.text = ""
@@ -183,31 +183,31 @@ OiOsioiSouPaides.ode = misc_en_US_repass.Ode8
 OiOsioiSouPaides.text = ""
 
 OiPaidesEnVavyloni.notmetered = "Not Metered (In Babylon those Servants.)"
-OiPaidesEnVavyloni.name = ""
+OiPaidesEnVavyloni.name = "In Babylon those Servants."
 OiPaidesEnVavyloni.mode = misc_en_US_repass.Mode6
 OiPaidesEnVavyloni.ode = misc_en_US_repass.Ode7
 OiPaidesEnVavyloni.text = ""
 
 OnStratiaiOuranon.notmetered = "Not Metered (Him whom the hosts.)"
-OnStratiaiOuranon.name = ""
+OnStratiaiOuranon.name = "Him whom the hosts."
 OnStratiaiOuranon.mode = misc_en_US_repass.Mode6
 OnStratiaiOuranon.ode = misc_en_US_repass.Ode8
 OnStratiaiOuranon.text = ""
 
 OsEnIpeiroPezefsas.notmetered = "Not Metered (The host of Israel.)"
-OsEnIpeiroPezefsas.name = ""
+OsEnIpeiroPezefsas.name = "The host of Israel."
 OsEnIpeiroPezefsas.mode = misc_en_US_repass.Mode6
 OsEnIpeiroPezefsas.ode = misc_en_US_repass.Ode1
 OsEnIpeiroPezefsas.text = ""
 
 OukEstinAgios.notmetered = "Not Metered (O Lord my God.)"
-OukEstinAgios.name = ""
+OukEstinAgios.name = "O Lord my God."
 OukEstinAgios.mode = misc_en_US_repass.Mode6
 OukEstinAgios.ode = misc_en_US_repass.Ode3
 OukEstinAgios.text = ""
 
 ProkatidonOProfitis.notmetered = "Not Metered (When Habakkuk the Prophet.)"
-ProkatidonOProfitis.name = ""
+ProkatidonOProfitis.name = "When Habakkuk the Prophet."
 ProkatidonOProfitis.mode = misc_en_US_repass.Mode6
 ProkatidonOProfitis.ode = misc_en_US_repass.Ode4
 ProkatidonOProfitis.text = ""
@@ -218,7 +218,7 @@ ProkatidonOProfitis_Epiphany.ode = misc_en_US_repass.Ode4
 ProkatidonOProfitis_Epiphany.text = ""
 
 ProsSeOrthrizo.notmetered = "Not Metered (Early in the morning.)"
-ProsSeOrthrizo.name = ""
+ProsSeOrthrizo.name = "Early in the morning."
 ProsSeOrthrizo.mode = misc_en_US_repass.Mode6
 ProsSeOrthrizo.ode = misc_en_US_repass.Ode5
 ProsSeOrthrizo.text = ""
@@ -236,7 +236,7 @@ ProsecheOurane.ode = misc_en_US_repass.Ode2
 ProsecheOurane.text = ""
 
 SeTonEpiYdaton.notmetered = "Not Metered (When creation beheld You.)"
-SeTonEpiYdaton.name = ""
+SeTonEpiYdaton.name = "When creation beheld You."
 SeTonEpiYdaton.mode = misc_en_US_repass.Mode6
 SeTonEpiYdaton.ode = misc_en_US_repass.Ode3
 SeTonEpiYdaton.text = ""
@@ -247,7 +247,7 @@ SeTonEpiYdaton_Epiphany.ode = misc_en_US_repass.Ode3
 SeTonEpiYdaton_Epiphany.text = ""
 
 StereosonKyrie.notmetered = "Not Metered (Establish upon the rock.)"
-StereosonKyrie.name = ""
+StereosonKyrie.name = "Establish upon the rock."
 StereosonKyrie.mode = misc_en_US_repass.Mode6
 StereosonKyrie.ode = misc_en_US_repass.Ode3
 StereosonKyrie.text = ""
@@ -265,18 +265,18 @@ StilinKakiasTouDeinou.ode = misc_en_US_repass.Ode8
 StilinKakiasTouDeinou.text = ""
 
 SyneschethiAllOuKateschethi.notmetered = "Not Metered (Prophet Jonah was in.)"
-SyneschethiAllOuKateschethi.name = ""
+SyneschethiAllOuKateschethi.name = "Prophet Jonah was in."
 SyneschethiAllOuKateschethi.mode = misc_en_US_repass.Mode6
 SyneschethiAllOuKateschethi.ode = misc_en_US_repass.Ode6
 SyneschethiAllOuKateschethi.text = ""
 SyneschethiAllOuKateschethi_Epiphany.notmetered = "Not Metered (.)"
-SyneschethiAllOuKateschethi_Epiphany.name = ""
+SyneschethiAllOuKateschethi_Epiphany.name = "."
 SyneschethiAllOuKateschethi_Epiphany.mode = misc_en_US_repass.Mode6
 SyneschethiAllOuKateschethi_Epiphany.ode = misc_en_US_repass.Ode6
 SyneschethiAllOuKateschethi_Epiphany.text = ""
 
 TheofaneiasSouChriste.notmetered = "Not Metered (Prophet Isaiah once beheld.)"
-TheofaneiasSouChriste.name = ""
+TheofaneiasSouChriste.name = "Prophet Isaiah once beheld."
 TheofaneiasSouChriste.mode = misc_en_US_repass.Mode6
 TheofaneiasSouChriste.ode = misc_en_US_repass.Ode5
 TheofaneiasSouChriste.text = ""
@@ -287,7 +287,7 @@ TheofaneiasSouChriste_Epiphany.ode = misc_en_US_repass.Ode5
 TheofaneiasSouChriste_Epiphany.text = ""
 
 TheonAnthropois.notmetered = "Not Metered (For man to see God.)"
-TheonAnthropois.name = ""
+TheonAnthropois.name = "For man to see God."
 TheonAnthropois.mode = misc_en_US_repass.Mode6
 TheonAnthropois.ode = misc_en_US_repass.Ode9
 TheonAnthropois.text = ""
@@ -299,7 +299,7 @@ TheonPateraDimiourgon.ode = misc_en_US_repass.Ode8
 TheonPateraDimiourgon.text = ""
 
 TinEnStavroSou.notmetered = "Not Metered (When he foresaw.)"
-TinEnStavroSou.name = ""
+TinEnStavroSou.name = "When he foresaw."
 TinEnStavroSou.mode = misc_en_US_repass.Mode6
 TinEnStavroSou.ode = misc_en_US_repass.Ode4
 TinEnStavroSou.text = ""
@@ -310,13 +310,13 @@ TinProsToBaptismaSou.mode = misc_en_US_repass.Mode6
 TinProsToBaptismaSou.ode = misc_en_US_repass.Ode4
 TinProsToBaptismaSou.text = ""
 TinTimioteran.notmetered = "Not Metered (Greater in honor.)"
-TinTimioteran.name = ""
+TinTimioteran.name = "Greater in honor."
 TinTimioteran.mode = misc_en_US_repass.Mode6
 TinTimioteran.ode = misc_en_US_repass.Ode9
 TinTimioteran.text = ""
 
 TmitheisiTmatai.notmetered = "Not Metered (The Red Sea was cut.)"
-TmitheisiTmatai.name = ""
+TmitheisiTmatai.name = "The Red Sea was cut."
 TmitheisiTmatai.mode = misc_en_US_repass.Mode6
 TmitheisiTmatai.ode = misc_en_US_repass.Ode1
 TmitheisiTmatai.text = ""
@@ -328,7 +328,7 @@ ToKiteiKatapotheis.ode = misc_en_US_repass.Ode6
 ToKiteiKatapotheis.text = ""
 
 ToSyndesmoTisAgapis.notmetered = "Not Metered (Once the Apostles.)"
-ToSyndesmoTisAgapis.name = ""
+ToSyndesmoTisAgapis.name = "Once the Apostles."
 ToSyndesmoTisAgapis.mode = misc_en_US_repass.Mode6
 ToSyndesmoTisAgapis.ode = misc_en_US_repass.Ode5
 ToSyndesmoTisAgapis.text = ""
@@ -339,7 +339,7 @@ ToSyndesmoTisDeilias.ode = misc_en_US_repass.Ode5
 ToSyndesmoTisDeilias.text = ""
 
 ToTheioFengeiSou.notmetered = "Not Metered (With Your divine light.)"
-ToTheioFengeiSou.name = ""
+ToTheioFengeiSou.name = "With Your divine light."
 ToTheioFengeiSou.mode = misc_en_US_repass.Mode6
 ToTheioFengeiSou.ode = misc_en_US_repass.Ode5
 ToTheioFengeiSou.text = ""
@@ -351,19 +351,19 @@ TonPaidonTinOdin.ode = misc_en_US_repass.Ode8
 TonPaidonTinOdin.text = ""
 
 TouViouTinThalassan.notmetered = "Not Metered (Perceiving the open sea.)"
-TouViouTinThalassan.name = ""
+TouViouTinThalassan.name = "Perceiving the open sea."
 TouViouTinThalassan.mode = misc_en_US_repass.Mode6
 TouViouTinThalassan.ode = misc_en_US_repass.Ode6
 TouViouTinThalassan.text = ""
 
 VoithosKaiSkepastis.notmetered = "Not Metered (He became for me a helper.)"
-VoithosKaiSkepastis.name = ""
+VoithosKaiSkepastis.name = "He became for me a helper."
 VoithosKaiSkepastis.mode = misc_en_US_repass.Mode6
 VoithosKaiSkepastis.ode = misc_en_US_repass.Ode1
 VoithosKaiSkepastis.text = ""
 
 XeniasDespotikis.notmetered = "Not Metered (Come, believers, let us enjoy.)"
-XeniasDespotikis.name = ""
+XeniasDespotikis.name = "Come, believers, let us enjoy."
 XeniasDespotikis.mode = misc_en_US_repass.Mode6
 XeniasDespotikis.ode = misc_en_US_repass.Ode9
 XeniasDespotikis.text = ""

@@ -2,45 +2,45 @@ A_Resource_Whose_Name = he.a.m1_en_US_repass
 
 ChorosAngelikos.mode = misc_en_US_repass.Mode1
 ChorosAngelikos.notmetered = "Not Metered (In heaven be amazed.)"
-ChorosAngelikos.name = ""
+ChorosAngelikos.name = "In heaven be amazed."
 ChorosAngelikos.text = ""
 
 NefelinSeFotos.mode = misc_en_US_repass.Mode1
 NefelinSeFotos.notmetered = "Not Metered (Nefelin Se Fotos)"
-NefelinSeFotos.name = ""
+NefelinSeFotos.name = "Nefelin Se Fotos"
 NefelinSeFotos.text = ""
 
 OTouParadoxouThavmatos.mode = misc_en_US_repass.Mode1
 OTouParadoxouThavmatos.notmetered = "Not Metered (What a paradoxical miracle.)"
-OTouParadoxouThavmatos.name = ""
+OTouParadoxouThavmatos.name = "What a paradoxical miracle."
 OTouParadoxouThavmatos.text = ""
 
 OtanElthisOTheos.mode = misc_en_US_repass.Mode1
 OtanElthisOTheos.notmetered = "Not Metered (When You come down.)"
-OtanElthisOTheos.name = ""
+OtanElthisOTheos.name = "When You come down."
 OtanElthisOTheos.text = ""
 
 PaneffimoiMartyres.mode = misc_en_US_repass.Mode1
 PaneffimoiMartyres.notmetered = "Not Metered (O Martyrs, extolled.)"
-PaneffimoiMartyres.name = ""
+PaneffimoiMartyres.name = "O Martyrs, extolled. "
 PaneffimoiMartyres.text = ""
 
 TisErimouPolitis.mode = misc_en_US_repass.Mode1
 TisErimouPolitis.notmetered = "Not Metered (As a citizen of the desert.)"
-TisErimouPolitis.name = ""
+TisErimouPolitis.name = "As a citizen of the desert."
 TisErimouPolitis.text = ""
 
 TonOuranionTagmaton.mode = misc_en_US_repass.Mode1
 TonOuranionTagmaton.notmetered = "Not Metered (For the celestial orders.)"
-TonOuranionTagmaton.name = ""
+TonOuranionTagmaton.name = "For the celestial orders."
 TonOuranionTagmaton.text = ""
 
 TonTafonSouSotir.mode = misc_en_US_repass.Mode1
 TonTafonSouSotir.notmetered = "Not Metered (The soldiers keeping watch.)"
-TonTafonSouSotir.name = ""
+TonTafonSouSotir.name = "The soldiers keeping watch."
 TonTafonSouSotir.text = ""
 
 TouLithouSfragisthentos.mode = misc_en_US_repass.Mode1
 TouLithouSfragisthentos.notmetered = "Not Metered (The stone had been secured.)"
-TouLithouSfragisthentos.name = ""
+TouLithouSfragisthentos.name = "The stone had been secured."
 TouLithouSfragisthentos.text = ""
