@@ -296,7 +296,7 @@ meMA.LaudsGlory.text = meVE.Lity2.text
 meMA.MM.Lauds1123as5678.text = properties_en_US_repass.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = misc_en_US_repass.NotMetered //meMA.Kontakion1.melody
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.SeasonalKontakion.mode = meMA.Kontakion1.mode
