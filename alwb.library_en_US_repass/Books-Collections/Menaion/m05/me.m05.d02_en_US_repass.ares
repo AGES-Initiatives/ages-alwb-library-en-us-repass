@@ -254,10 +254,6 @@ meMA.LaudsGlory.text = ""
 
 meMA.MM.LaudsSunday.text = properties_en_US_repass.media.key
 
-meLI.SeasonalKontakion.mode = misc_en_US_repass.Mode2
-meLI.SeasonalKontakion.melody = ""
-meLI.SeasonalKontakion.text = 
-
 meLI.MM.CommunionHymn.text = ""
 
 meMegalynarion.text = ""
