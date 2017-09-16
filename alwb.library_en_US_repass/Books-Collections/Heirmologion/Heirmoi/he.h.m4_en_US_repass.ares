@@ -646,7 +646,7 @@ TheosKyriosKaiEpefanenImin.mode = misc_en_US_repass.Mode4
 TheosKyriosKaiEpefanenImin.ode = misc_en_US_repass.Ode9
 TheosKyriosKaiEpefanenImin.text = ""
 
-ThysoSoiMetaFonis.notmetered = "N/M (The Church cries out to You.)"
+ThysoSoiMetaFonis.notmetered = "N/M (The Church cries out.)"
 ThysoSoiMetaFonis.name = "The Church cries out to You."
 ThysoSoiMetaFonis.mode = misc_en_US_repass.Mode4
 ThysoSoiMetaFonis.ode = misc_en_US_repass.Ode6
