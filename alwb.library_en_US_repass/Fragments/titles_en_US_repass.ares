@@ -129,6 +129,8 @@ Eteros = "Another."
 
 EterosKanon = ""
 
+EterosKanonProeortios = ""
+
 EterosTisEortis = ""
 
 EteronTisEortis = "Another for the Feast."
@@ -199,6 +201,10 @@ KanonProeortios = ""
 KanonStavrosimos = "Kanon for the Cross"
 
 KanonStavroanastasimos = "Canon for the Cross and Resurrection"
+
+KanonATisAgias = ""
+
+KanonBTisAgias = ""
 
 KanonTisAgias = ""
 
