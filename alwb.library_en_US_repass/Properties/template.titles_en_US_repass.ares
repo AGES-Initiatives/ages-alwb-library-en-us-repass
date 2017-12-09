@@ -228,6 +228,8 @@ d.onFridayEvening = "on Friday Evening"
 d.onSaturdayMorning = "on Saturday Morning"
 d.onSaturdayEvening = "on Saturday Evening"
 
+me.SundayAfterFeast = ""
+
 me.m01.d06.onEpiphanyEve = ""
 me.m12.d25.onChristmasEve = ""
 
