@@ -6,7 +6,6 @@ meHO.DaysHours.text = ""
 meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meCommemoration.text = "" // full title of day
 meShortCommemoration1.text = ""
-meShortCommemoration2.text = ""
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
@@ -53,7 +52,7 @@ meVE.SticBoth.melody = ""
 meVE.SticBoth.text = "Today Simeon takes in his arms the Lord of glory whom Moses beheld of old in darkness when he gave him the tablets on Mount Sinai. This is he who speaks through the Prophets: he is the Author of the Law. This is he whom David announced; he is fearful to all, yet has great and abundant mercy."
 
 meVE.Aposticha1.mode = misc_en_US_repass.Mode6
-meVE.Aposticha1.melody = ""
+meVE.Aposticha1.melody = "(NM)"
 meVE.Aposticha1.text = "The three-sunned light, shining clearly from the Virgin in an unprecedented manner, has ineffably gladdened all things with the dazzling radiance of supremely bright Divinity."
 
 meVE.Aposticha2.mode = misc_en_US_repass.Mode6
