@@ -522,7 +522,12 @@ OsEmpsychoTheouKivoto.mode = misc_en_US_repass.Mode4
 OsEmpsychoTheouKivoto.ode = misc_en_US_repass.Ode9
 OsEmpsychoTheouKivoto.text = ""
 
-OsIonanTonProfitin.notmetered = "N/M ()"
+OsIonanTonProfitin.notmetered = "N/M (Now let no uninitiated hand.)"
+OsEmpsychoTheouKivoto_Annunciation.name = ""
+OsEmpsychoTheouKivoto_Annunciation.mode = misc_en_US_repass.Mode4
+OsEmpsychoTheouKivoto_Annunciation.ode = misc_en_US_repass.Ode9
+OsEmpsychoTheouKivoto_Annunciation.text = ""
+
 OsIonanTonProfitin.name = ""
 OsIonanTonProfitin.mode = misc_en_US_repass.Mode4
 OsIonanTonProfitin.ode = misc_en_US_repass.Ode6
