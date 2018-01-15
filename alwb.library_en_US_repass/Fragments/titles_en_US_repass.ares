@@ -28,6 +28,10 @@ ApolytikionAnastasimon = "Resurrectional Apolytikion."
 
 ApolytikionTisEortis = ""
 
+ApolytikionTisImeras = ""
+
+ApolytikionTouTriodiou = ""
+
 Aposticha = "Aposticha."
 
 ApostichaAnastasima = "Resurrectional Aposticha."
@@ -355,6 +359,8 @@ KontakionAnastasimon = "Resurrectional Kontakion."
 KontakionProeortion = ""
 
 KontakionTisEortis = ""
+
+KontakionTisImeras = ""
 
 KontakionTisTheotokou = ""
 
