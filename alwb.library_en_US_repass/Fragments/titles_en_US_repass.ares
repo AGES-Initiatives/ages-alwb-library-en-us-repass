@@ -230,6 +230,8 @@ KanonATisMesopentikostis = ""
 
 KanonBTisMesopentikostis = ""
 
+KanonTisMyroforou = ""
+
 KanonATisOsias = ""
 
 KanonBTisOsias = ""
@@ -263,6 +265,10 @@ KanonTonEnkainion = ""
 KanonTonMartyron = "Canon for the Martyrs"
 
 KanonTonPateron = ""
+
+KanonATonPateron = ""
+
+KanonBTonPateron = ""
 
 KanonTonPropatoron = ""
 
