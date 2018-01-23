@@ -286,8 +286,6 @@ meMA.Kontakion1.text = "O Pure one, full of divine grace, you have bestowed on a
 
 meMA.Oikos1.text = "Let all of us who were saved through her childbearing bless, in faith, the pure and true tabernacle of the Word of God, the living cloud and the jar of manna, Mary the Theotokos; and let us kiss the reverenced Robe which she placed around the Master when she carried him, an infant clothed in flesh. By this Robe the nature of mortals is lifted up to the exalted life and kingdom; therefore, joyfully, we cry with loud voices: Rejoice, O Virgin, the boast of Christians."
 
-meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
-
 meMA.Ode7C1H.ode = misc_en_US_repass.Ode7
 meMA.Ode7C1H.mode = misc_en_US_repass.Mode4
 meMA.Ode7C1H.melody = misc_en_US_repass.HeirmosNotMetered

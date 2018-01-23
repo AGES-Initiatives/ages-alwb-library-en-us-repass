@@ -206,8 +206,6 @@ meMA.Kontakion1.text = "We celebrate the memorial of the progenitors of Christ, 
 
 meMA.Oikos1.text = "Prophetically let us all assemble to praise the all-holy translation of Christ's ancestor as she deserves. For today she passes over from temporal life to the heavenly places, and makes her journey joyfully, with gladness; and as she is in truth the mother of the true Theotokos, she cries out with faith: My soul magnifies the Lord, for I have given birth to his Mother on earth. May the Lord, therefore, be with us, who has glorified them as it pleased him."
 
-meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
-
 meMA.Ode7C11.ode = misc_en_US_repass.Ode7
 meMA.Ode7C11.mode = misc_en_US_repass.Mode4
 meMA.Ode7C11.melody = he.h.m4_en_US_repass.ODiasosasEnPyri.notmetered
