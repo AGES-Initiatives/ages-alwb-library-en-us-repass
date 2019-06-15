@@ -215,6 +215,8 @@ KanonTouEvangelistou = ""
 KanonTouIerarchou = ""
 KanonTouIeromartyros = ""
 KanonTouMartyros = ""
+KanonTouMegalomartyros = ""
+
 KanonTouOsiou = ""
 KanonTouParalytou = ""
 KanonTouPascha = ""
@@ -426,6 +428,8 @@ TouIosif = ""
 
 TouLazarou = "For Lazarus."
 TouMartyros = "For the Martyr."
+TouMegalomartyros = ""
+
 TouMinaiou = "From the Menaion."
 TouMnistoros = ""
 TouNaou = "For the church."
