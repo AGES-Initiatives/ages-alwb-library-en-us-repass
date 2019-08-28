@@ -119,6 +119,8 @@ Iamvikos = "Iambic."
 IchosOAftos = "Same Mode."
 IchosTisEvdomados = ""
 Idiomela = "Idiomela."
+IdiomelaTisEortis = ""
+
 IdiomelaTisLitis = ""
 
 IdiomelaTonApostichon = ""
@@ -352,6 +354,8 @@ StichiraTonKekoimimenon = ""
 StichiraTouAgiouNikolaou = ""
 StichiraTouMinaiou = ""
 StichiraTouPascha = "Stichera of Pascha."
+StichiraTouPentikostariou = ""
+
 StichiraTouProdromou = "Stichera for the Forerunner."
 StichiraTouStavrou = ""
 StichiraTouTriodiou = ""
