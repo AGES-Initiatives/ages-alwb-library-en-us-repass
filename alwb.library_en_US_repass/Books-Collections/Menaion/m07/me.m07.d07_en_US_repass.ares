@@ -1,0 +1,20 @@
+A_Resource_Whose_Name = me.m07.d07_en_US_repass
+
+meCommemoration.text = ""
+meDate.text = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+meHO.number = ""
+meHO.rank = ""
+meCom1.title = ""
+meCom2.title = ""
+meInsert1 = ""
+meInsert2 = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meNote.text = ""
+meShortCommemoration1.text = ""
+meVE.SticGlory.melody = misc_en_US_repass.NotMetered
+meVE.SticGlory.mode = misc_en_US_repass.Mode6
+meVE.SticGlory.text = "At the right hand of the Savior stood the virgin and prize-winner and invincible martyr, arrayed with virtues and adorned with the oil of purity and with the blood of her struggle; and she cried to him in great joy, bearing her lamp: \"I ran to the fragrance of your myrrh, O Christ God, for I was wounded by your love; do not separate me from you, O heavenly Bridegroom.\" By her entreaties, O Almighty Savior, send down on us your mercies."
