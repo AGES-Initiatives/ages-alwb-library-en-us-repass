@@ -82,3 +82,5 @@ fasting.rule.free = ""
 fasting.rule.oil = ""
 fasting.rule.strict = ""
 fasting.rule.title = ""
+
+unavailable.octoechos = ""
